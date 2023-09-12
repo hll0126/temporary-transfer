@@ -1,0 +1,67 @@
+1.Workshop练习需要提前用户下载的代码和资料包：Expo2022 LowCodeAI CN
+https://content.mathworks.com/viewer/62afe7a94a95027ab28358ec?iid=62afde5c22ed6a6d6bf4e75d
+2.Workshop需要用到的讲义 （PDF版本）：2022 CN expo LowCodeAI workshop
+https://content.mathworks.com/viewer/62afe7a94a95027ab28358ec?iid=62afdd6896468151ce1510f7
+下午的python和matllab会议连接
+https://mathworksevent.webex.com/mathworksevent-sc/onstage/g.php?MTID=e1f92bc3d3623d0d90a723340ed376291
+
+
+
+
+
+网络安全工具全套
+链接：https://pan.baidu.com/s/1o91TygD1Pe7SLPST9b6USQ 
+提取码：1111
+Python+kali黑客全套
+链接：https://pan.baidu.com/s/1Vaxh9ohUKqqUT_v-EkKeIQ?pwd=8888 
+提取码：8888 
+CTF
+链接：https://pan.baidu.com/s/1mrir_1wTHstoPg16vypZ-Q?pwd=8888 
+提取码：8888 
+Kali训练营资料
+链接：https://pan.baidu.com/s/1hYuy1c8lxfXOViXD2mhNBg?pwd=8888 
+提取码：8888 
+密码爆破资料
+链接：https://pan.baidu.com/s/1zTvypc8ZdiOMEqVCrpppMw?pwd=ta6s 
+提取码：ta6s 
+网络安全PPT
+链接：https://pan.baidu.com/s/19t__TH5vuls958Sm1nz3lA 
+提取码：1111 
+护网资料
+链接：https://pan.baidu.com/s/1sWVUTSsGZlUodL_ISj4LHA 
+提取码：1111 
+网络安全电子书
+链接：https://pan.baidu.com/s/11Szyk-WQUlWBCcq2hlV3bQ 
+提取码：8888 
+网络安全面试题
+链接：https://pan.baidu.com/s/1qNAtAtmdSEE_pRX36VZ2oA 
+提取码：1111 
+Java代码审计
+链接：https://pan.baidu.com/s/1c3vQJ_KK63IlIfwUI6v8rw?pwd=6i8z 
+提取码：6i8z 
+《b站资料整理》https://docs.qq.com/doc/DQmdWVkpZWVFldkhR
+密码爆破
+链接：https://pan.baidu.com/s/17sbOldizHXNQldcK7i4qzw?pwd=r4qc 
+提取码：r4qc 
+v2022网络安全学习路线图：
+https://www.processon.com/view/link/62b1b2267d9c08073c671315
+
+
+
+
+
+
+4T
+海康OEM希捷酷鹰ST4000VX015
+DS42HKVS WD40PURX
+国行酷鹰ST4000VX016
+国行紫盘WD43PURZ
+4T
+HC320 HUS728T8TALE6L4
+7E10 ST8000NM017B
+8T
+HC550 WUH721816ALE6L4
+希捷X18 ST16000NM000J
+16T
+希捷X20 ST18000NM003D
+希捷X18 ST18000NM000J
