@@ -18,6 +18,8 @@
 
 若是需要更新GitHub文件库，则在执行第二步后，输入git fetch --all，git reset --hard original/main(或者master，需要根据当地代码库的描述来确定)和git pull；
 之后在该文件夹下删除文件、增加文件或者替换文件，执行第三步（加入缓存）、第四步（提交信息）和第五步（推入仓库）。
+
+若是需要更新文件，直接git pull就行。
 # 参考链接：
 1. https://www.cnblogs.com/kumata/p/9061166.html
 2. https://zhuanlan.zhihu.com/p/114174753
