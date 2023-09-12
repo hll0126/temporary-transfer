@@ -4,7 +4,7 @@
 # 方法：
 1 首先需要在GitHub上新建一个repository，随后复制库的HTTPS或者SSH，一般是复制HTTPS；
 
-2 其次在本地电脑上的一个文件夹内右键选择Git Bash Here，输入git clone url，url是你刚刚复制的HTTPS，此时就会在该位置下载刚刚创建的repository，文件夹名称是你命名repository的名字，记作test；
+2 其次在本地电脑上的一个文件夹内右键选择Git Bash Here，先初始化git init，后输入git clone url，url是你刚刚复制的HTTPS，此时就会在该位置下载刚刚创建的repository，文件夹名称是你命名repository的名字，记作test；
 
 3 第三，把你想要传输的文件上复制到该文件夹test下，之后输入git add .或者git add -A，目的是将本地电脑的文件暂时缓存在GitHub上的缓存库中；
 
