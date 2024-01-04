@@ -6,7 +6,7 @@
 
 2 其次在本地电脑上的一个文件夹内右键选择Git Bash Here，先初始化git init，后输入git clone url，url是你刚刚复制的HTTPS，此时就会在该位置下载刚刚创建的repository，文件夹名称是你命名repository的名字，记作test；
 
-3 第三，把你想要传输的文件上复制到该文件夹test下，之后输入git add .或者git add -A，目的是将本地电脑的文件暂时缓存在GitHub上的缓存库中；
+3 第三，cd到该test文件夹，把你想要传输的文件上复制到该文件夹test下，之后输入git add .或者git add -A，目的是将本地电脑的文件暂时缓存在GitHub上的缓存库中；
 
 4 第四，输入git commit -m "提交信息"，将你刚刚上传在GitHub缓存库中的文件进行信息命名，为的是从GitHub缓存库向GitHub仓库传输进行明确分辨，其中"提交信息"名字不要重复；
 
@@ -16,7 +16,7 @@
 
 若是只需要下载GitHub上的代码，只需要执行第二步，在电脑的本地位置上，右键Git Bash Here，输入git clone url，url是你需要下载的GitHub代码链接。
 
-若是需要更新GitHub文件库，则在执行第二步后，输入git fetch --all，git reset --hard original/main(或者master，需要根据当地代码库的描述来确定)和git pull；
+若是需要更新GitHub文件库，则在执行第二步后，输入git fetch --all，git reset --hard original/main(或者git reset --hard original/master，需要根据当地代码库的描述来确定)和git pull；
 之后在该文件夹下删除文件、增加文件或者替换文件，执行第三步（加入缓存）、第四步（提交信息）和第五步（推入仓库）。
 
 若是需要更新文件，直接git pull就行。
